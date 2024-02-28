@@ -30,8 +30,8 @@ char *_strcat(char *dest, char *src)
 
 /**
  * reverse_string - Reverse strings
- * @dest: input value
- * @src: input value
+ * @str: string value
+ * @len: length  of string
  *
  * Return: the reversed string
  */
