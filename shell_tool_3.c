@@ -1,4 +1,4 @@
-#include "main.h"
+#include "simple_shell.h"
 /**
 * _getpath - gets the path from the environment variable
 * @command: input string from user

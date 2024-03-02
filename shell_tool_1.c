@@ -1,4 +1,4 @@
-#include "main.h"
+#include "simple_shell.h"
 
 /**
 * tokenizer - converts command from prompts into tokens

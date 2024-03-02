@@ -1,4 +1,4 @@
-#include "main.h"
+#include "simple_shell.h"
 /**
 * is_builtin - checks if the command is builtin
 * @command: input value from user
